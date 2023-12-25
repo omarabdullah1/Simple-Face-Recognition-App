@@ -6,4 +6,11 @@ To use this solution , you need to restore the Nuget Packages first
 3. Build as x64 Platform
 4. Run the application
 
+#### Looks
 
+<table>
+  <tr>
+      <td><img src="./Screens/img1.jpg" alt="Image 1"></td>
+      <td><img src="./Screens/img2.jpg" alt="Image 2"></td>
+  </tr>
+</table>
